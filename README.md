@@ -17,6 +17,7 @@ int main()
    float L;                         /* Luas lingkaran*/
 
    /*ALGORITMA*/
+    
     cout << "Masukkan Jari-Jari Lingkaran (r) :\n";cin >> r;   /*tampilan r*/
     L = pi * r * r;
     cout << "Luas Lingkaaran dengan Jari-Jari (r)"<<r<<"adalah:"<<L;
